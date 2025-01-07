@@ -1,0 +1,76 @@
+body{
+    background-color: #70FF7E;
+}
+.joke{
+    background-color: #001EBD;
+    width: 400px;
+    height: 116px;
+    top: 31px;
+    left: 527px;
+    gap: 0px;
+    border-radius: 20px;
+    opacity: 0px;
+    margin: auto;
+}
+.glove{
+    padding-left: 130px;
+    padding-top: 50px;
+    box-sizing: border-box;
+}
+.svetofor{
+    background-color: black;
+    width: 451px;
+    height: 777px;
+    top: 164px;
+    left: 495px;
+    gap: 0px;
+    border-radius: 20px;
+    opacity: 0px;
+    margin: 0 auto;
+}
+.vnutr{
+    padding-left: 130px;
+    padding-top: 50px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-eve;
+}
+.circle1{
+    background-color: #DF3636;
+    width: 200px;
+    height: 200px;
+    gap: 0px;
+    border-radius: 150px;
+    border: 5px solid #28E145;
+    opacity: 0px;
+}
+.vnutri{
+    padding-left: 130px;
+    padding-top: 30px;
+    box-sizing: border-box;
+}
+.circle2{
+    width: 200px;
+    height: 200px;
+    gap: 0px;
+    border-radius: 150px;
+    border: 5px solid #28E145;
+    opacity: 0px;
+    background-color: #FDE403;
+}
+.vnutriy{
+    padding-left: 130px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    box-sizing: border-box;
+}
+.circle3{
+    width: 200px;
+    height: 200px;
+    gap: 0px;
+    border-radius: 150px;
+    border: 5px solid #28E145;
+    opacity: 0px;
+    background-color: #28E145;
+}
